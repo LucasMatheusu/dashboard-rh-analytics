@@ -8,7 +8,7 @@ Projeto completo de **People Analytics e Visão Operacional**, desenvolvido para
 
 ## 📸 Demonstração do Painel
 
-![RH Overview](img/rh_overview.png)
+![RH Overview](Captura%20de%20tela%202026-11-05%20151011.png)
 
 ---
 
